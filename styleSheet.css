@@ -1,0 +1,32 @@
+.searchCenter {
+    display: flex;
+    justify-content: center;
+}
+.centerCon {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    height: 45vh;
+}
+.otherPages {
+    display: flex;
+    justify-content: right;
+}
+.searchBar {
+    width: 30vh;
+    border-radius: 10px;
+}
+a {
+    padding: 5px;
+}
+.boxes {
+    display: flex;
+    justify-content: center;
+}
+.bellowButtons {
+    padding: 5px;
+}
+.advSearch {
+    padding: 5px;
+}
